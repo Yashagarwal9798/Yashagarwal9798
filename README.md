@@ -32,8 +32,3 @@
 1. **[Extinct](https://github.com/Yashagarwal9798/extinct)**: Self-hosted personal AI agent you text on **Telegram**. Browses in its own Chrome (watch or take over live), reads Gmail, and runs reminders and scheduled tasks on durable Temporal workflows.
 2. **[AgentStack Radar](https://github.com/Yashagarwal9798/Agentstack)**: Catalog for AI coding agents that **remembers what worked for you**. Daily pipeline verifies MCP servers and skills; local-first CLI recommends them privately. Published on npm.
 3. **[Automatic Deploy](https://github.com/Yashagarwal9798/automated-deploy)**: CLI that deploys apps to **AWS ECS** with Gemini-generated Dockerfiles, cutting deployment from **30+ steps to 3**. Published on npm.
-
-**Achievements**
-
-1. **Amazon ML Summer School '25** Scholar, top 0.3% of 1,00,000+ applicants.
-2. **Flipkart GRiD 7.0** National Semi-Finalist.
